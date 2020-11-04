@@ -1,2 +1,2 @@
 # kaggle
-random experiments with datasets from kaggle
+NN architecture experiments with datasets from kaggle
